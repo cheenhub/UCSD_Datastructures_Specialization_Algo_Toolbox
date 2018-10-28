@@ -23,3 +23,11 @@ Week 4 - Divide and Conquer
 3. Improving quicksort
 4. Number of inversions
 5. Points across segments
+
+Week 5 and 6 - Dynamic Programming
+1. Money Change
+2. Primitive Calculator
+3. Edit Distance
+4. Longest common subsequence in 2 / 3 sequences
+5. Discrete Knapsack - with & without replacement
+6. Placing parantheses - Find maximum value of arithmetic expression
